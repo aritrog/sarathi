@@ -6,5 +6,5 @@ Team mate names-
 3.Debapam Pal
 4.Archika Nandi
 5.<Ranit change here>
-6.<Debasmita change here>  
+6.Debasmita Ghosh 
   
